@@ -1,0 +1,14 @@
+using System;
+
+namespace ArabSeedAddon
+{
+    public class ArabSeed
+    {
+        public void Initialize()
+        {
+            Console.WriteLine("ArabSeed Addon Initialized");
+        }
+
+        // هنا هتحط كل الوظائف الإضافية
+    }
+}
