@@ -1,0 +1,12 @@
+{
+  "description": "Cloudstream plugins for Arabseed",
+  "name": "Arabseed Repo",
+  "plugins": [
+    {
+      "name": "Arabseed",
+      "description": "Watch movies and series from Arabseed",
+      "url": "https://raw.githubusercontent.com/mohamed-elmasry17/cloudstream-arabseed/main/arabseed.cs3",
+      "version": 1
+    }
+  ]
+}
